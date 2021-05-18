@@ -13,7 +13,7 @@ export default function Logon() {
         <form>
           <h1>Faça seu logon</h1>
           <input placeholder="Sua ID" />
-          <button type="submit" className="">
+          <button className="button" type="submit">
             Entrar
           </button>
           <a href="/register">
