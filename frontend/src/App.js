@@ -1,10 +1,10 @@
-import React, { useState } from 'react';
-import Logon from './pages/Logon';
+import React from 'react';
+import Routes from './routes';
 import './global.css';
 function App() {
   return (
     <>
-      <Logon />
+      <Routes />
     </>
   );
 }
